@@ -1,0 +1,3 @@
+productItemCode,amount,rewardCode,_csrf
+p8m5,10000,reward201603-3,${token}
+中文,123,,www

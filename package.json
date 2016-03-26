@@ -1,0 +1,27 @@
+{
+  "name": "autocaseproduce",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "mysql": "^2.10.2",
+    "node-xlsx": "^0.6.0",
+    "xlsx": "^0.8.0",
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangbs5658/autocaseproduce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangbs5658/autocaseproduce/issues"
+  },
+  "homepage": "https://github.com/yangbs5658/autocaseproduce#readme"
+}

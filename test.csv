@@ -1,0 +1,17 @@
+productItemCode,amount,rewardCode,_csrf,
+zw,10000,reward201603-3,${token}
+p8m5,zw,reward201603-3,${token}
+p8m5,10000,zw,${token}
+p8m5,10000,reward201603-3,zw
+中文,10000,reward201603-3,${token}
+p8m5,中文,reward201603-3,${token}
+p8m5,10000,中文,${token}
+p8m5,10000,reward201603-3,中文
+,10000,reward201603-3,${token}
+p8m5,,reward201603-3,${token}
+p8m5,10000,,${token}
+p8m5,10000,reward201603-3,
+！@#￥A%,10000,reward201603-3,${token}
+p8m5,！@#￥A%,reward201603-3,${token}
+p8m5,10000,！@#￥A%,${token}
+p8m5,10000,reward201603-3,！@#￥A%
